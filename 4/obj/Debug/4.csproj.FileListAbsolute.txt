@@ -1,0 +1,14 @@
+C:\Users\shpar\source\repos\4\4\bin\Debug\4.exe.config
+C:\Users\shpar\source\repos\4\4\bin\Debug\4.exe
+C:\Users\shpar\source\repos\4\4\bin\Debug\4.pdb
+C:\Users\shpar\source\repos\4\4\bin\Debug\EntityFramework.dll
+C:\Users\shpar\source\repos\4\4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shpar\source\repos\4\4\bin\Debug\EntityFramework.xml
+C:\Users\shpar\source\repos\4\4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.csprojAssemblyReference.cache
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.csproj.CopyComplete
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.exe
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.pdb
+C:\Users\shpar\source\repos\4\4\obj\Debug\_4.Migrations.InitialCreate.resources
+C:\Users\shpar\source\repos\4\4\obj\Debug\4.csproj.GenerateResource.cache
